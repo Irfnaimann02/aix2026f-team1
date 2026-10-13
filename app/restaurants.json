@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "MEAL PLAN B",
+    "lat": 37.3002358,
+    "lng": 126.8392708,
+    "halal_status": "verified",
+    "note": "TEST - not yet confirmed with staff",
+    "last_checked": "2026-10-13"
+  },
+  {
+    "id": 2,
+    "name": "알촌 한양대ERICA점",
+    "lat": 37.2975,
+    "lng": 126.8340,
+    "halal_status": "unverified",
+    "last_checked": "2026-10-13"
+  },
+  {
+    "id": 3,
+    "name": "FAKE Far Away Shop",
+    "lat": 37.3150,
+    "lng": 126.8355,
+    "halal_status": "verified",
+    "last_checked": "2026-10-13"
+  }
+]
